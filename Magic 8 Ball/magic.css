@@ -1,0 +1,18 @@
+html {
+    background: url("kitagawa-san.webp") no-repeat center fixed;
+    background-size: cover;
+}
+
+body {
+    background: rgba(255, 255, 255, 0.7);
+    padding: 50px 100px;
+    border-radius: 25px;
+    margin: 25px auto;
+    width: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#eightball {
+    cursor: pointer;
+}
+
